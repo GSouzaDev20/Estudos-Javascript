@@ -1,9 +1,9 @@
 //Variable declarations
-let country = "Brasil";
-let continent = "América do Sul";
+const country = "Brasil";
+const continent = "América do Sul";
 let population = 210;
-let isIsland = false;
-let language;
+const isIsland = false;
+let language = "Português";
 
 console.log(country);
 console.log(continent);
